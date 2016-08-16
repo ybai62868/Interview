@@ -1,5 +1,4 @@
 #include<iostream>
-"https://github.com/fookwood/fkcode/network"
 template<class Object>
 class Vector{
 private:
